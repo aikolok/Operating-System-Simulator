@@ -1,5 +1,5 @@
 # Operating System Simulator
-C++ library that has a SimulatedOS class which contains methods that simulate an operating system.
+This project is a C++ library that has a SimulatedOS class which contains methods that simulate an operating system.
 
 CPU scheduling is priority-based. Every process has a priority number. The higher is the number, the higher is priority. The process with higher priority uses the CPU. The scheduling is preemptive. It means that if a process with the higher priority arrives to the ready-queue while a lower-priority process uses the CPU, the lower-priority process is preempted (that is moved back to ready-queue) while the higher priority process immediately starts using the CPU. 
 
