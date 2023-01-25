@@ -1,2 +1,2 @@
 # Operating-System-Simulator
-C++ library that has a class SimulatedOS which simulates an operating system.
+C++ library that has a SimulatedOS class which contains methods that simulate an operating system.
